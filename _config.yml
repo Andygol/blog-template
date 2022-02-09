@@ -30,7 +30,7 @@ rss: rss
 
 comments: true
 disqus:
-    shortname: andygol
+    shortname: your-name
 
 # Build settings
 markdown: kramdown
